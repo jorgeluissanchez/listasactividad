@@ -2,7 +2,7 @@ import React from 'react';
 
 const Page: React.FC = () => {
   return (
-    <div>page inicio</div>
+    <div>page problema 5</div>
   );
 };
 

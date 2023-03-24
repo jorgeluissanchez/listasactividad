@@ -2,7 +2,8 @@ import React from 'react';
 
 const Page: React.FC = () => {
   return (
-    <div>page inicio</div>
+    <div>page menu</div>
+    
   );
 };
 
